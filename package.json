@@ -5,6 +5,8 @@
   "author": "mo <mo@bytes32.xyz>",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.49",
+    "@vuepress/plugin-search": "^2.0.0-beta.49",
     "vuepress": "^2.0.0-beta.49"
   },
   "scripts": {

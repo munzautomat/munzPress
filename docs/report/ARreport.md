@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Index
+title: AR report
 description: Description of this page
 # NavLink
 prev:
@@ -11,45 +11,28 @@ next:
     link: /guide/getting-started.html
 ---
 
-# Munzautomat
 
-- [AR report](/report/ARreport.md)
-
-
-## Reports
+[[toc]]
 
 
-## DeFi
-- CobiQuadrat
-....
-
-## Tools
-asdfasdf
-asd
-fas
-dfa
-sdf
-asd
-f
-asdf
-as
-df
-as
-df
-asdf
-as
-df
-asd
-f
-asdf
-sa
-df
-asd
-f
+## dddd
 
 
+## adsd
 
 
+# ddd
 
 
+# dd
 
+## www
+
+## www
+
+# www
+
+
+One plus one equals: {{ 1 + 1 }}
+
+<span v-for="i in 3"> span: {{ i }} </span>
